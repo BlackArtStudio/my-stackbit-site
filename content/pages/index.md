@@ -17,7 +17,7 @@ sections:
   - type: CardGridSection
     heading: Jump to Topic
     subheading: |
-      Or jump right to a specific topic to help you build your site.
+      Added a new branch called develop
     cards:
       - heading: How Stackbit Works →
         subheading: |

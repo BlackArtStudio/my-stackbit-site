@@ -10,7 +10,7 @@ This is a minimal starting point for new Stackbit projects. It is built with Nex
 
 **⚡ Demo:** [stackbit-nextjs-starter.netlify.app](https://stackbit-nextjs-starter.netlify.app/)
 
-## Getting Started
+## Getting Started Test
 
 The typical development process is to begin by working locally.
 
